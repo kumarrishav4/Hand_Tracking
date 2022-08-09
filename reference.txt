@@ -1,1 +1,2 @@
 https://realpython.com/face-detection-in-python-using-a-webcam/
+https://www.taylorfrancis.com/books/mono/10.1201/9780429243370/image-processing-acquisition-using-python-ravishankar-chityala-sridevi-pudipeddi
