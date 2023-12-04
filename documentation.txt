@@ -1,5 +1,12 @@
-The project is to tagret automation using the gestures of a person onto any objects around using a camera the utilities of this somftware is vast from controlling a switch to constructing anyting in a vr to controlling an entire house.
-the points we have been through the project in using dynamic gestures to control any objects. 
-the use of my to identify any object is also required.
-the project also uses a eld to control the relays from a running code to a embeded system.
-the embedded sysytem controls the relay switches which control the ac circuits.
+The project is to tagret automation using the gestures of a person
+onto any objects around using a camera the utilities of this application
+is vast fuctions like
+-controlling a switch,
+-constructing anyting in a vr,
+-controlling an entire house.
+the points we have been through the project in using dynamic gestures 
+to control any objects. The use of my to identify any object is also 
+required. 
+
+Tasks
+-ploting points on hand to identify hand(fingers, palm)
