@@ -1,12 +1,5 @@
-The project is to tagret automation using the gestures of a person
-onto any objects around using a camera the utilities of this application
-is vast fuctions like
--controlling a switch,
--constructing anyting in a vr,
--controlling an entire house.
-the points we have been through the project in using dynamic gestures 
-to control any objects. The use of my to identify any object is also 
-required. 
+Hand Tracking
 
 Tasks
--ploting points on hand to identify hand(fingers, palm)
+Task1 -ploting points on hand to identify hand (fingers, palm)
+Task2 -identify particular gestures,hand movements
