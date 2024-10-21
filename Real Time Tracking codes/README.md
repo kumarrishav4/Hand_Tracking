@@ -6,6 +6,7 @@
     <title>Real Time Tracking</title>
 </head>
 <body>
+<h1>Real Time Tracking</h1>
 
 <p>The project files focus on building real-time hand gesture tracking and have used Python, OpenCV, and MediaPipe for it. 
 An iterative approach was used, with each file building on the previous ones to enhance functionality.</p>
